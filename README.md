@@ -34,7 +34,7 @@ using:
 
 And test compiled executable:
 
-    % esy ./_build/default/bin/hello.exe
+    % esy x hello
 
 Shell into environment:
 
